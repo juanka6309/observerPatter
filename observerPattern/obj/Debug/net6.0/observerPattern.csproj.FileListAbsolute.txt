@@ -1,0 +1,15 @@
+C:\Users\jm440\source\repos\observerPattern\observerPattern\bin\Debug\net6.0\observerPattern.exe
+C:\Users\jm440\source\repos\observerPattern\observerPattern\bin\Debug\net6.0\observerPattern.deps.json
+C:\Users\jm440\source\repos\observerPattern\observerPattern\bin\Debug\net6.0\observerPattern.runtimeconfig.json
+C:\Users\jm440\source\repos\observerPattern\observerPattern\bin\Debug\net6.0\observerPattern.dll
+C:\Users\jm440\source\repos\observerPattern\observerPattern\bin\Debug\net6.0\observerPattern.pdb
+C:\Users\jm440\source\repos\observerPattern\observerPattern\obj\Debug\net6.0\observerPattern.csproj.AssemblyReference.cache
+C:\Users\jm440\source\repos\observerPattern\observerPattern\obj\Debug\net6.0\observerPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jm440\source\repos\observerPattern\observerPattern\obj\Debug\net6.0\observerPattern.AssemblyInfoInputs.cache
+C:\Users\jm440\source\repos\observerPattern\observerPattern\obj\Debug\net6.0\observerPattern.AssemblyInfo.cs
+C:\Users\jm440\source\repos\observerPattern\observerPattern\obj\Debug\net6.0\observerPattern.csproj.CoreCompileInputs.cache
+C:\Users\jm440\source\repos\observerPattern\observerPattern\obj\Debug\net6.0\observerPattern.dll
+C:\Users\jm440\source\repos\observerPattern\observerPattern\obj\Debug\net6.0\refint\observerPattern.dll
+C:\Users\jm440\source\repos\observerPattern\observerPattern\obj\Debug\net6.0\observerPattern.pdb
+C:\Users\jm440\source\repos\observerPattern\observerPattern\obj\Debug\net6.0\observerPattern.genruntimeconfig.cache
+C:\Users\jm440\source\repos\observerPattern\observerPattern\obj\Debug\net6.0\ref\observerPattern.dll
